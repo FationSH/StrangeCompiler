@@ -1,0 +1,16 @@
+100: begin_block exams2 _ _
+110: begin_block p1 _ _
+120: begin_block p11 _ _
+130: begin_block p21 _ _
+140: := x _ e
+150: := w _ z
+160: par a CV _
+170: par T_1 RET _
+180: call p21 _ _
+190: := T_1 _ e
+200: retv e _ _
+210: end_block p21 _ _
+220: end_block p11 _ _
+230: end_block p1 _ _
+240: halt _ _ _
+250: end_block exams2 _ _
